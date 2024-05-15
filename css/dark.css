@@ -128,6 +128,8 @@ body.dark::-webkit-scrollbar {
 .dark .trito_tm_modalbox .main_details .detailbox .first{
 	color: #fff;
 }
-.dark .trito_tm_modalbox .main_details .detailbox span a{
-	color: #c5c8d4;
+
+.dark .trito_tm_modalbox .main_details .detailbox span a {
+    color: #c4c24a;
+    text-decoration: underline;
 }
